@@ -1,0 +1,8 @@
+LICENCE
+setup.py
+excel_chart/__init__.py
+excel_chart.egg-info/PKG-INFO
+excel_chart.egg-info/SOURCES.txt
+excel_chart.egg-info/dependency_links.txt
+excel_chart.egg-info/requires.txt
+excel_chart.egg-info/top_level.txt
